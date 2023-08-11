@@ -1,0 +1,5 @@
+FROM mysql:latest
+
+ENV MYSQL_ROOT_PASSWORD=dlgksqls11!
+
+ENV MYSQL_DATABASE=yourdb
